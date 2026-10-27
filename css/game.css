@@ -1,0 +1,1 @@
+@keyframes lpulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes lbar{0%{margin-left:-35%}100%{margin-left:100%}}#bootscr{transition:opacity .8s}
